@@ -1,0 +1,3 @@
+([('main',
+   '/Users/artem_rylov/PycharmProjects/CodeEditor/dist/main',
+   'EXECUTABLE')],)
